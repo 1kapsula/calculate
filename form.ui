@@ -171,15 +171,7 @@ border: none;</string>
         </sizepolicy>
        </property>
        <property name="styleSheet">
-        <string notr="true">QPushButton{
-background-color: black;
-border-width: 1px;
-border-radius: 1px;
-border-color: black;
-font: 26px;
-color: white;
-padding: 1px;
-}</string>
+        <string notr="true"/>
        </property>
        <property name="text">
         <string>A</string>
